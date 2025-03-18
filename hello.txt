@@ -6,6 +6,7 @@ nihao xujiaxingdasheng
 nihao xujiaxingdasheng
 nihao xujiaxingdasheng
 nihao xujiaxingdasheng master test
+nihao xujiaxingdasheng hot-fix test
 hello world!
 success!
 hot-fix
